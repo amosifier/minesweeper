@@ -1,1 +1,1 @@
-# minesweeper
+# ✨ Aesthetic Minesweeper ✨
