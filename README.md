@@ -1,1 +1,2 @@
 # ✨ Aesthetic Minesweeper ✨
+### By Amosifier 💛
